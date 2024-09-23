@@ -10,7 +10,7 @@ export default defineConfig({
   plugins: [
     vue(),
     VitePWA({
-      srcDir: "/vueall",
+      srcDir: "/",
       filename: "sw.ts",
       registerType: 'autoUpdate',
       // injectRegister: 'auto',
