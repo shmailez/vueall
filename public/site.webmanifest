@@ -1,7 +1,7 @@
 {
     "name": "VueAll",
     "short_name": "VueAll",
-    "start_url":"/",
+    "start_url":"/vueall",
     "icons": [
         {
             "src": "/icon-192x192.png",
