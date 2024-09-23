@@ -11,7 +11,7 @@ export default defineConfig({
     vue(),
     VitePWA({
       srcDir: "/",
-      filename: "sw.js",
+      filename: "sw.ts",
       registerType: 'autoUpdate',
       // injectRegister: 'auto',
       devOptions: {
