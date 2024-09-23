@@ -27,5 +27,5 @@ export default defineConfig({
     }),
     
   ],
-  base: "/vueall"
+  base: '/vueall/'
 })
